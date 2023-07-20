@@ -12,8 +12,8 @@
 import pathlib
 
 
-nameOfFile = input('Желаемое имя файла ->> ')
-count = input('кол-во цифр в порядковом номере ->> ')
+nameOfFile = input('ИмЯ, которое хотим получить ->> ')
+count = input('ЦифРЫ в порядковом номере ->> ')
 extOld = input('расширение файла ->> ')
 extNew = input('новое расширение ->> ')
 
