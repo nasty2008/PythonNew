@@ -1,0 +1,240 @@
+{
+  "C:\\Users\\User\\Desktop\\1": {
+    ".git": {
+      "size": 24185,
+      "file_or_dir": "directory"
+    },
+    "DZ1": {
+      "size": 3295,
+      "file_or_dir": "directory"
+    },
+    "DZ2": {
+      "size": 2043,
+      "file_or_dir": "directory"
+    },
+    "DZ3": {
+      "size": 4907,
+      "file_or_dir": "directory"
+    },
+    "DZ4": {
+      "size": 4914,
+      "file_or_dir": "directory"
+    },
+    "DZ5": {
+      "size": 1649,
+      "file_or_dir": "directory"
+    },
+    "DZ6": {
+      "size": 2852,
+      "file_or_dir": "directory"
+    },
+    "DZ7": {
+      "size": 11432,
+      "file_or_dir": "directory"
+    },
+    "DZ8": {
+      "size": 2876,
+      "file_or_dir": "directory"
+    },
+    "dir_info.csv": {
+      "size": 2498,
+      "file_or_dir": "file"
+    },
+    "dir_info.json": {
+      "size": 4653,
+      "file_or_dir": "file"
+    },
+    "dir_info.pickle": {
+      "size": 3426,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\.git": {
+    "hooks": {
+      "size": 23513,
+      "file_or_dir": "directory"
+    },
+    "info": {
+      "size": 240,
+      "file_or_dir": "directory"
+    },
+    "objects": {
+      "size": 15,
+      "file_or_dir": "directory"
+    },
+    "refs": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "COMMIT_EDITMSG": {
+      "size": 13,
+      "file_or_dir": "file"
+    },
+    "config": {
+      "size": 243,
+      "file_or_dir": "file"
+    },
+    "description": {
+      "size": 73,
+      "file_or_dir": "file"
+    },
+    "HEAD": {
+      "size": 23,
+      "file_or_dir": "file"
+    },
+    "index": {
+      "size": 65,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\.git\\hooks": {
+    "applypatch-msg.sample": {
+      "size": 478,
+      "file_or_dir": "file"
+    },
+    "commit-msg.sample": {
+      "size": 896,
+      "file_or_dir": "file"
+    },
+    "fsmonitor-watchman.sample": {
+      "size": 4726,
+      "file_or_dir": "file"
+    },
+    "post-update.sample": {
+      "size": 189,
+      "file_or_dir": "file"
+    },
+    "pre-applypatch.sample": {
+      "size": 424,
+      "file_or_dir": "file"
+    },
+    "pre-commit.sample": {
+      "size": 1643,
+      "file_or_dir": "file"
+    },
+    "pre-merge-commit.sample": {
+      "size": 416,
+      "file_or_dir": "file"
+    },
+    "pre-push.sample": {
+      "size": 1374,
+      "file_or_dir": "file"
+    },
+    "pre-rebase.sample": {
+      "size": 4898,
+      "file_or_dir": "file"
+    },
+    "pre-receive.sample": {
+      "size": 544,
+      "file_or_dir": "file"
+    },
+    "prepare-commit-msg.sample": {
+      "size": 1492,
+      "file_or_dir": "file"
+    },
+    "push-to-checkout.sample": {
+      "size": 2783,
+      "file_or_dir": "file"
+    },
+    "update.sample": {
+      "size": 3650,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\.git\\info": {
+    "exclude": {
+      "size": 240,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\.git\\objects": {
+    "4b": {
+      "size": 15,
+      "file_or_dir": "directory"
+    },
+    "info": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "pack": {
+      "size": 0,
+      "file_or_dir": "directory"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\.git\\objects\\4b": {
+    "825dc642cb6eb9a060e54bf8d69288fbee4904": {
+      "size": 15,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\.git\\objects\\info": {},
+  "C:\\Users\\User\\Desktop\\1\\.git\\objects\\pack": {},
+  "C:\\Users\\User\\Desktop\\1\\.git\\refs": {
+    "heads": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "tags": {
+      "size": 0,
+      "file_or_dir": "directory"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\.git\\refs\\heads": {},
+  "C:\\Users\\User\\Desktop\\1\\.git\\refs\\tags": {},
+  "C:\\Users\\User\\Desktop\\1\\DZ1": {
+    "tasks.py": {
+      "size": 3295,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\DZ2": {
+    "tasks.py": {
+      "size": 2043,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\DZ3": {
+    "tasks.py": {
+      "size": 4907,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\DZ4": {
+    "tasks.py": {
+      "size": 4914,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\DZ5": {
+    "tasks.py": {
+      "size": 1649,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\DZ6": {
+    "tasks.py": {
+      "size": 2852,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\DZ7": {
+    "1.py": {
+      "size": 11374,
+      "file_or_dir": "file"
+    },
+    "ff.md": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "oo001.cvc": {
+      "size": 58,
+      "file_or_dir": "file"
+    }
+  },
+  "C:\\Users\\User\\Desktop\\1\\DZ8": {
+    "tasks.py": {
+      "size": 2876,
+      "file_or_dir": "file"
+    }
+  }
+}
